@@ -23,6 +23,8 @@ My name is Marcelo and welcome to my GitHub profile!
   <img height="20" src="https://img.shields.io/badge/Code-HTML-orange?style=flat&logo=html5" alt="HTML">
   <img height="20" src="https://img.shields.io/badge/Code-CSS-blue?style=flat&logo=css3" alt="CSS">
 </div>
+
+
 ## Contact
 - 📧 [Email address](mrcel83@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/marcelo-oliveira-1445b5222/)
