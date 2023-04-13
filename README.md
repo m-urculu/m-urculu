@@ -12,18 +12,19 @@ My name is Marcelo and welcome to my GitHub profile!
 ## Skills
 - Programming Languages: JavaScript, TypeScript
 - Technologies: <div align="center">
-  <img alt="JavaScript" src="https://img.shields.io/badge/code-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white">
-  <img alt="TypeScript" src="https://img.shields.io/badge/code-TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white">
-  <img alt="Node.js" src="https://img.shields.io/badge/tech-Node.js-green?style=for-the-badge&logo=node.js&logoColor=white">
-  <img alt="Express" src="https://img.shields.io/badge/tech-Express-lightgrey?style=for-the-badge&logo=express&logoColor=white">
-  <img alt="mongoDB" src="https://img.shields.io/badge/tech-mongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img alt="Jest" src="https://img.shields.io/badge/code-Jest-red?style=for-the-badge&logo=jest&logoColor=white">
-  <img alt="npm" src="https://img.shields.io/badge/tools-npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
-  <img alt="bash" src="https://img.shields.io/badge/tools-bash-blueviolet?style=for-the-badge&logo=gnu-bash&logoColor=white">
-  <img alt="Figma" src="https://img.shields.io/badge/tools-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-  <img alt="HTML" src="https://img.shields.io/badge/code-HTML-orange?style=for-the-badge&logo=html5&logoColor=white">
-  <img alt="CSS" src="https://img.shields.io/badge/code-CSS-blue?style=for-the-badge&logo=css3&logoColor=white">
+  <img height="20" src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a&labelColor=2c3e50" alt="JavaScript">
+  <img height="20" src="https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a&labelColor=2c3e50" alt="TypeScript">
+  <img height="20" src="https://img.shields.io/badge/Tech-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a&labelColor=2c3e50" alt="Node.js">
+  <img height="20" src="https://img.shields.io/badge/Tech-Express.js-informational?style=flat&logo=express&logoColor=white&color=2bbc8a&labelColor=2c3e50" alt="Express">
+  <img height="20" src="https://img.shields.io/badge/Tech-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a&labelColor=2c3e50" alt="MongoDB">
+  <img height="20" src="https://img.shields.io/badge/Tools-Jest-informational?style=flat&logo=jest&logoColor=white&color=2bbc8a&labelColor=2c3e50" alt="Jest">
+  <img height="20" src="https://img.shields.io/badge/Tools-npm-informational?style=flat&logo=npm&logoColor=white&color=2bbc8a&labelColor=2c3e50" alt="npm">
+  <img height="20" src="https://img.shields.io/badge/Tools-bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a&labelColor=2c3e50" alt="bash">
+  <img height="20" src="https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=figma&logoColor=white&color=2bbc8a&labelColor=2c3e50" alt="Figma">
+  <img height="20" src="https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a&labelColor=2c3e50" alt="HTML">
+  <img height="20" src="https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a&labelColor=2c3e50" alt="CSS">
 </div>
+
 
 
 
