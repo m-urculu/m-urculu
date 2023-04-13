@@ -12,6 +12,8 @@ My name is Marcelo and welcome to my GitHub profile!
 ## Skills
 <div>
   <img height="20" src="https://img.shields.io/badge/Code-TypeScript-blue?style=flat&logo=typescript" alt="TypeScript">
+  <img height="20" src="https://img.shields.io/badge/'Code'-HTML-orange?style=flat&logo=html5" alt="HTML">
+  <img height="20" src="https://img.shields.io/badge/'Code'-CSS-blue?style=flat&logo=css3" alt="CSS">
   <img height="20" src="https://img.shields.io/badge/Tech-Node.js-green?style=flat&logo=node.js" alt="Node.js">
   <img height="20" src="https://img.shields.io/badge/Tech-Express.js-lightgrey?style=flat&logo=express" alt="Express">
   <img height="20" src="https://img.shields.io/badge/Tech-MongoDB-green?style=flat&logo=mongodb" alt="MongoDB">
@@ -19,8 +21,6 @@ My name is Marcelo and welcome to my GitHub profile!
   <img height="20" src="https://img.shields.io/badge/Tool-npm-red?style=flat&logo=npm" alt="npm">
   <img height="20" src="https://img.shields.io/badge/Code-bash-blueviolet?style=flat&logo=gnu-bash" alt="bash">
   <img height="20" src="https://img.shields.io/badge/Tool-Figma-violet?style=flat&logo=figma" alt="Figma">
-  <img height="20" src="https://img.shields.io/badge/'Code'-HTML-orange?style=flat&logo=html5" alt="HTML">
-  <img height="20" src="https://img.shields.io/badge/'Code'-CSS-blue?style=flat&logo=css3" alt="CSS">
 </div>
 
 
