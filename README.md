@@ -26,18 +26,21 @@ My name is Marcelo and welcome to my GitHub profile!
 </div>
 
 <div align="center">
-	<img height="30" src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
-	<img height="30" src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript"/>
-	<img height="30" src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/>
-	<img height="30" src="https://img.icons8.com/color/48/000000/express.png" alt="Express"/>
-	<img height="30" src="https://img.icons8.com/color/48/000000/mongodb.png" alt="mongoDB"/>
-	<img height="30" src="https://img.icons8.com/color/48/000000/jest.png" alt="Jest"/>
-	<img height="30" src="https://img.icons8.com/color/48/000000/npm.png" alt="npm"/>
-	<img height="30" src="https://img.icons8.com/color/48/000000/console.png" alt="bash"/>
-	<img height="30" src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma"/>
-	<img height="30" src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML"/>
-	<img height="30" src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"/>
+
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/Code-TypeScript-black?style=flat-square&logo=typescript)
+![Node.js](https://img.shields.io/badge/Tech-Node.js-black?style=flat-square&logo=node.js)
+![Express](https://img.shields.io/badge/Tech-Express-black?style=flat-square&logo=express)
+![MongoDB](https://img.shields.io/badge/Tech-MongoDB-black?style=flat-square&logo=mongodb)
+![Jest](https://img.shields.io/badge/Code%20Testing-Jest-black?style=flat-square&logo=jest)
+![npm](https://img.shields.io/badge/Tool-npm-black?style=flat-square&logo=npm)
+![Bash](https://img.shields.io/badge/Tool-Bash-black?style=flat-square&logo=gnu-bash)
+![Figma](https://img.shields.io/badge/Tool-Figma-black?style=flat-square&logo=figma)
+![HTML](https://img.shields.io/badge/Code-HTML-black?style=flat-square&logo=html5)
+![CSS](https://img.shields.io/badge/Code-CSS-black?style=flat-square&logo=css3)
+
 </div>
+
 
 
 
