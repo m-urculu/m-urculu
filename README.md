@@ -12,17 +12,20 @@ My name is Marcelo and welcome to my GitHub profile!
 ## Skills
 - Programming Languages: JavaScript, TypeScript
 - Technologies: <div align="center">
-  <img src="https://img.shields.io/badge/code-JavaScript-yellow?style=flat-square&logo=javascript" alt="JavaScript">
-  <img src="https://img.shields.io/badge/code-TypeScript-blue?style=flat-square&logo=typescript" alt="TypeScript">
-  <img src="https://img.shields.io/badge/tech-Node.js-green?style=flat-square&logo=node.js" alt="Node.js">
-  <img src="https://img.shields.io/badge/tech-Express-lightgrey?style=flat-square&logo=express" alt="Express">
-  <img src="https://img.shields.io/badge/tech-MongoDB-brightgreen?style=flat-square&logo=mongodb" alt="mongoDB">
-  <img src="https://img.shields.io/badge/code-Jest-red?style=flat-square&logo=jest" alt="Jest">
-  <img src="https://img.shields.io/badge/tools-npm-orange?style=flat-square&logo=npm" alt="npm">
-  <img src="https://img.shields.io/badge/code-Bash-black?style=flat-square&logo=gnu-bash" alt="Bash">
-  <img src="https://img.shields.io/badge/tools-Figma-purple?style=flat-square&logo=figma" alt="Figma">
-  <img src="https://img.shields.io/badge/code-HTML5-red?style=flat-square&logo=html5" alt="HTML5">
-  <img src="https://img.shields.io/badge/code-CSS3-blue?style=flat-square&logo=css3" alt="CSS3">
+	<img height="28" src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" title="JavaScript" />
+	<img height="28" src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" title="TypeScript" />
+	<img height="28" src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" title="Node.js" />
+	<img height="28" src="https://img.icons8.com/color/48/000000/express.png" alt="Express" title="Express" />
+	<img height="28" src="https://img.icons8.com/color/48/000000/mongodb.png" alt="mongoDB" title="mongoDB" />
+	<img height="28" src="https://img.icons8.com/color/48/000000/jest.png" alt="Jest" title="Jest" />
+</div>
+
+<div align="center">
+	<img height="28" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" title="VS Code" />
+	<img height="28" src="https://img.icons8.com/color/48/000000/git.png" alt="Git" title="Git" />
+	<img height="28" src="https://img.icons8.com/color/48/000000/github--v1.png" alt="GitHub" title="GitHub" />
+	<img height="28" src="https://img.icons8.com/color/48/000000/bash.png" alt="Bash" title="Bash" />
+	<img height="28" src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" title="Figma" />
 </div>
 
 
