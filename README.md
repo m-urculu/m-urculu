@@ -25,7 +25,7 @@ My name is Marcelo and welcome to my GitHub profile!
 
 
 ## Contact
-- 📧 [Email address](mrcel83@gmail.com)
+- 📧 [Email address]:mrcel83@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/marcelo-oliveira-1445b5222/)
 
 Feel free to browse my repositories and don't hesitate to get in touch if you have any questions or would like to collaborate on a project!
