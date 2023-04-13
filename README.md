@@ -11,7 +11,6 @@ My name is Marcelo and welcome to my GitHub profile!
 
 ## Skills
 <div>
-  <img height="20" src="https://img.shields.io/badge/Code-JavaScript-yellow?style=flat&logo=javascript" alt="JavaScript">
   <img height="20" src="https://img.shields.io/badge/Code-TypeScript-blue?style=flat&logo=typescript" alt="TypeScript">
   <img height="20" src="https://img.shields.io/badge/Tech-Node.js-green?style=flat&logo=node.js" alt="Node.js">
   <img height="20" src="https://img.shields.io/badge/Tech-Express.js-lightgrey?style=flat&logo=express" alt="Express">
