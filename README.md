@@ -26,18 +26,20 @@ My name is Marcelo and welcome to my GitHub profile!
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/code-JavaScript-yellow?style=flat-square&logo=javascript" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/code-TypeScript-blue?style=flat-square&logo=typescript" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/tech-Node.js-green?style=flat-square&logo=node.js" alt="Node.js" />
-  <img src="https://img.shields.io/badge/tech-Express-lightgrey?style=flat-square&logo=express" alt="Express" />
-  <img src="https://img.shields.io/badge/tech-mongoDB-brightgreen?style=flat-square&logo=mongodb" alt="mongoDB" />
-  <img src="https://img.shields.io/badge/code-Jest-red?style=flat-square&logo=jest" alt="Jest" />
-  <img src="https://img.shields.io/badge/tools-npm-orange?style=flat-square&logo=npm" alt="npm" />
-  <img src="https://img.shields.io/badge/tools-bash-yellowgreen?style=flat-square&logo=gnu-bash" alt="bash" />
-  <img src="https://img.shields.io/badge/tools-Figma-purple?style=flat-square&logo=figma" alt="Figma" />
-  <img src="https://img.shields.io/badge/code-HTML-orange?style=flat-square&logo=html5" alt="HTML" />
-  <img src="https://img.shields.io/badge/code-CSS-blue?style=flat-square&logo=css3" alt="CSS" />
+	<img height="30" src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
+	<img height="30" src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript"/>
+	<img height="30" src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/>
+	<img height="30" src="https://img.icons8.com/color/48/000000/express.png" alt="Express"/>
+	<img height="30" src="https://img.icons8.com/color/48/000000/mongodb.png" alt="mongoDB"/>
+	<img height="30" src="https://img.icons8.com/color/48/000000/jest.png" alt="Jest"/>
+	<img height="30" src="https://img.icons8.com/color/48/000000/npm.png" alt="npm"/>
+	<img height="30" src="https://img.icons8.com/color/48/000000/console.png" alt="bash"/>
+	<img height="30" src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma"/>
+	<img height="30" src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML"/>
+	<img height="30" src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"/>
 </div>
+
+
 
 
 
