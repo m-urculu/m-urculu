@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hi there! 👋
 
-<!--
-**m-urculu/m-urculu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Marcelo and welcome to my GitHub profile! 
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Currently, I'm working on a Bugtracker Site.
+- 🌱 I'm currently learning TypeScript, NodeJS, Express, MongoDB, and other related technologies.
+- 🤝 Open to collaborating on any projects related to my skills and interests.
+
+## Skills
+- Programming Languages: JavaScript, TypeScript
+- Technologies: HTML, CSS, ES6
+
+
+## Contact
+- 📧 [Email address](mrcel83@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/marcelo-oliveira-1445b5222/)
+
+Feel free to browse my repositories and don't hesitate to get in touch if you have any questions or would like to collaborate on a project!
