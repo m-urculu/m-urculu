@@ -12,21 +12,19 @@ My name is Marcelo and welcome to my GitHub profile!
 ## Skills
 - Programming Languages: JavaScript, TypeScript
 - Technologies: <div align="center">
-	<img height="28" src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" title="JavaScript" />
-	<img height="28" src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" title="TypeScript" />
-	<img height="28" src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" title="Node.js" />
-	<img height="28" src="https://img.icons8.com/color/48/000000/express.png" alt="Express" title="Express" />
-	<img height="28" src="https://img.icons8.com/color/48/000000/mongodb.png" alt="mongoDB" title="mongoDB" />
-	<img height="28" src="https://img.icons8.com/color/48/000000/jest.png" alt="Jest" title="Jest" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/code-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white">
+  <img alt="TypeScript" src="https://img.shields.io/badge/code-TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white">
+  <img alt="Node.js" src="https://img.shields.io/badge/tech-Node.js-green?style=for-the-badge&logo=node.js&logoColor=white">
+  <img alt="Express" src="https://img.shields.io/badge/tech-Express-lightgrey?style=for-the-badge&logo=express&logoColor=white">
+  <img alt="mongoDB" src="https://img.shields.io/badge/tech-mongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img alt="Jest" src="https://img.shields.io/badge/code-Jest-red?style=for-the-badge&logo=jest&logoColor=white">
+  <img alt="npm" src="https://img.shields.io/badge/tools-npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
+  <img alt="bash" src="https://img.shields.io/badge/tools-bash-blueviolet?style=for-the-badge&logo=gnu-bash&logoColor=white">
+  <img alt="Figma" src="https://img.shields.io/badge/tools-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+  <img alt="HTML" src="https://img.shields.io/badge/code-HTML-orange?style=for-the-badge&logo=html5&logoColor=white">
+  <img alt="CSS" src="https://img.shields.io/badge/code-CSS-blue?style=for-the-badge&logo=css3&logoColor=white">
 </div>
 
-<div align="center">
-	<img height="28" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" title="VS Code" />
-	<img height="28" src="https://img.icons8.com/color/48/000000/git.png" alt="Git" title="Git" />
-	<img height="28" src="https://img.icons8.com/color/48/000000/github--v1.png" alt="GitHub" title="GitHub" />
-	<img height="28" src="https://img.icons8.com/color/48/000000/bash.png" alt="Bash" title="Bash" />
-	<img height="28" src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" title="Figma" />
-</div>
 
 
 
