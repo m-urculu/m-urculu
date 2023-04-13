@@ -20,7 +20,7 @@ My name is Marcelo and welcome to my GitHub profile!
   <img height="20" src="https://img.shields.io/badge/Tech-Node.js-green?style=flat&logo=node.js" alt="Node.js">
   <img height="20" src="https://img.shields.io/badge/Tech-Express.js-lightgrey?style=flat&logo=express" alt="Express">
   <img height="20" src="https://img.shields.io/badge/Tech-MongoDB-green?style=flat&logo=mongodb" alt="MongoDB">
-  ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+  <img height="20" src="https://img.shields.io/badge/Tool-Postman-informational?style=flat&logo=postman&logoColor=white&color=ff6c37" alt="Postman">
   <img height="20" src="https://img.shields.io/badge/Tool-Jest-red?style=flat&logo=jest" alt="Jest">
   <img height="20" src="https://img.shields.io/badge/Tool-Figma-violet?style=flat&logo=figma" alt="Figma">
 </div>
