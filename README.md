@@ -21,9 +21,7 @@ My name is Marcelo and welcome to my GitHub profile!
 	<img height="36" src="https://img.shields.io/badge/Tools-npm-cb3837?style=flat-square" alt="npm" />
 	<img height="36" src="https://img.shields.io/badge/Tools-bash-4EAA25?style=flat-square" alt="bash" />
 	<img height="36" src="https://img.shields.io/badge/Tools-Figma-f24e1e?style=flat-square" alt="Figma" />
-	<img height="36" src="https://img.shields.io/badge/Code-HTML-e34c26?style=flat-square" alt="HTML" />
-	<img height="36" src="https://img.shields.io/badge/Code-CSS-264de4?style=flat-square" alt="CSS" />
-</div>
+	<img height="36" src
 
 
 
