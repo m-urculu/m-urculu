@@ -4,8 +4,8 @@ My name is Marcelo and welcome to my GitHub profile!
 
 ## About Me
 
-- 💻 Currently, I'm working on a Bugtracker Site.
-- 🌱 I'm currently learning TypeScript, NodeJS, Express, MongoDB, and other related technologies.
+- 💻 Currently working on a Bugtracker Site.
+- 🌱 I'm learning TypeScript, NodeJS, Express, MongoDB, and other related technologies.
 - 🤝 Open to collaborating on any projects related to my skills and interests.
 - ☕ No more Tutorial Hell, it's time to make stuff!
 
