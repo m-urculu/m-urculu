@@ -18,7 +18,7 @@ My name is Marcelo and welcome to my GitHub profile!
   <img height="20" src="https://img.shields.io/badge/Tech-Express.js-lightgrey?style=flat&logo=express" alt="Express">
   <img height="20" src="https://img.shields.io/badge/Tech-MongoDB-green?style=flat&logo=mongodb" alt="MongoDB">
   <img height="20" src="https://img.shields.io/badge/Code-bash-blueviolet?style=flat&logo=gnu-bash" alt="bash">
-  <img height="20" src="https://img.shields.io/badge/VCS-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a" alt="Git">
+  <img height="20" src="https://img.shields.io/badge/VCS-Git-red?style=flat&logo=git" alt="Git">
   <img height="20" src="https://img.shields.io/badge/Tool-npm-red?style=flat&logo=npm" alt="npm">
   <img height="20" src="https://img.shields.io/badge/Tool-Jest-red?style=flat&logo=jest" alt="Jest">
   <img height="20" src="https://img.shields.io/badge/Tool-Figma-violet?style=flat&logo=figma" alt="Figma">
