@@ -12,16 +12,19 @@ My name is Marcelo and welcome to my GitHub profile!
 ## Skills
 - Programming Languages: JavaScript, TypeScript
 - Technologies: <div align="center">
-	<img height="36" src="https://img.shields.io/badge/Code-JavaScript-f7df1e?style=flat-square" alt="JavaScript" />
-	<img height="36" src="https://img.shields.io/badge/Code-TypeScript-007acc?style=flat-square" alt="TypeScript" />
-	<img height="36" src="https://img.shields.io/badge/Tech-Node.js-68a063?style=flat-square" alt="Node.js" />
-	<img height="36" src="https://img.shields.io/badge/Tech-Express-404d59?style=flat-square" alt="Express" />
-	<img height="36" src="https://img.shields.io/badge/Tech-mongoDB-4db33d?style=flat-square" alt="mongoDB" />
-	<img height="36" src="https://img.shields.io/badge/Tools-Jest-c21325?style=flat-square" alt="Jest" />
-	<img height="36" src="https://img.shields.io/badge/Tools-npm-cb3837?style=flat-square" alt="npm" />
-	<img height="36" src="https://img.shields.io/badge/Tools-bash-4EAA25?style=flat-square" alt="bash" />
-	<img height="36" src="https://img.shields.io/badge/Tools-Figma-f24e1e?style=flat-square" alt="Figma" />
-	<img height="36" src
+  <img src="https://img.shields.io/badge/code-JavaScript-yellow?style=flat-square&logo=javascript" alt="JavaScript">
+  <img src="https://img.shields.io/badge/code-TypeScript-blue?style=flat-square&logo=typescript" alt="TypeScript">
+  <img src="https://img.shields.io/badge/tech-Node.js-green?style=flat-square&logo=node.js" alt="Node.js">
+  <img src="https://img.shields.io/badge/tech-Express-lightgrey?style=flat-square&logo=express" alt="Express">
+  <img src="https://img.shields.io/badge/tech-MongoDB-brightgreen?style=flat-square&logo=mongodb" alt="mongoDB">
+  <img src="https://img.shields.io/badge/code-Jest-red?style=flat-square&logo=jest" alt="Jest">
+  <img src="https://img.shields.io/badge/tools-npm-orange?style=flat-square&logo=npm" alt="npm">
+  <img src="https://img.shields.io/badge/code-Bash-black?style=flat-square&logo=gnu-bash" alt="Bash">
+  <img src="https://img.shields.io/badge/tools-Figma-purple?style=flat-square&logo=figma" alt="Figma">
+  <img src="https://img.shields.io/badge/code-HTML5-red?style=flat-square&logo=html5" alt="HTML5">
+  <img src="https://img.shields.io/badge/code-CSS3-blue?style=flat-square&logo=css3" alt="CSS3">
+</div>
+
 
 
 
