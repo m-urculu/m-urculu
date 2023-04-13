@@ -10,7 +10,7 @@ My name is Marcelo and welcome to my GitHub profile!
 
 ## Skills
 - Programming Languages: JavaScript, TypeScript
-- Technologies: HTML, CSS, ES6
+- Technologies: HTML, CSS, ES6, TypeScript, MongoDB, Node.js, Express
 
 
 ## Contact
