@@ -11,7 +11,8 @@ My name is Marcelo and welcome to my GitHub profile!
 
 ## Skills
 - Programming Languages: JavaScript, TypeScript
-- Technologies: <img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/.../html.png" />
+- Technologies: ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+
 
 
 
