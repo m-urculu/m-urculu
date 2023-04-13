@@ -10,7 +10,7 @@ My name is Marcelo and welcome to my GitHub profile!
 - ☕ No more Tutorial Hell, it's time to make stuff!
 
 ## Skills
-
+<div>
   <img height="20" src="https://img.shields.io/badge/Code-JavaScript-yellow?style=flat&logo=javascript" alt="JavaScript">
   <img height="20" src="https://img.shields.io/badge/Code-TypeScript-blue?style=flat&logo=typescript" alt="TypeScript">
   <img height="20" src="https://img.shields.io/badge/Tech-Node.js-green?style=flat&logo=node.js" alt="Node.js">
@@ -22,7 +22,7 @@ My name is Marcelo and welcome to my GitHub profile!
   <img height="20" src="https://img.shields.io/badge/Tools-Figma-violet?style=flat&logo=figma" alt="Figma">
   <img height="20" src="https://img.shields.io/badge/Code-HTML-orange?style=flat&logo=html5" alt="HTML">
   <img height="20" src="https://img.shields.io/badge/Code-CSS-blue?style=flat&logo=css3" alt="CSS">
-
+</div>
 ## Contact
 - 📧 [Email address](mrcel83@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/marcelo-oliveira-1445b5222/)
