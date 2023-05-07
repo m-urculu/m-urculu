@@ -19,6 +19,8 @@ My name is Marcelo and welcome to my GitHub profile!
   <img height="20" src="https://img.shields.io/badge/-npm-darkred?style=flat&logo=npm" alt="npm">
   <img height="20" src="https://img.shields.io/badge/-Node.js-darkgreen?style=flat&logo=node.js" alt="Node.js">
   <img height="20" src="https://img.shields.io/badge/-Express.js-grey?style=flat&logo=express" alt="Express">
+  <img height="20" src="https://img.shields.io/badge/-postgresql-grey?style=flat&logo=postgresql" alt="PostgreSQL">
+  <img height="20" src="https://img.shields.io/badge/-qslite-lightblue?style=flat&logo=sqlite" alt="SQLite">
   <img height="20" src="https://img.shields.io/badge/-Postman-informational?style=flat&logo=postman&logoColor=white&color=ff6c37" alt="Postman">
 </div>
 
