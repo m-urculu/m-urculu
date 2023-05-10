@@ -27,12 +27,12 @@ My name is Marcelo and welcome to my GitHub profile!
 
 <div>
   <img height="20" src="https://img.shields.io/badge/-Node.js-darkgreen?style=flat&logo=node.js" alt="Node.js">
+  <img height="20" src="https://img.shields.io/badge/-Express.js-grey?style=flat&logo=express" alt="Express">
   <img height="20" src="https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js" alt="Next.js">
   <img height="20" src="https://img.shields.io/badge/-Astro-purple?style=flat&logo=astro" alt="Astro">
   <img height="20" src="https://img.shields.io/badge/-Prisma-cyan?style=flat&logo=prisma" alt="Prisma">
   <img height="20" src="https://img.shields.io/badge/-React-blue?style=flat&logo=react" alt="React">
   <img height="20" src="https://img.shields.io/badge/-TailwindCSS-lightblue?style=flat&logo=tailwindcss" alt="TailwindCSS">
-  <img height="20" src="https://img.shields.io/badge/-Express.js-grey?style=flat&logo=express" alt="Express">
   <img height="20" src="https://img.shields.io/badge/-Postman-informational?style=flat&logo=postman&logoColor=white&color=ff6c37" alt="Postman">
 </div>
 
