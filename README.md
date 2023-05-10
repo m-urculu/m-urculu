@@ -18,6 +18,11 @@ My name is Marcelo and welcome to my GitHub profile!
   <img height="20" src="https://img.shields.io/badge/-bash-black?style=flat&logo=gnu-bash" alt="bash">
   <img height="20" src="https://img.shields.io/badge/-Git-darkred?style=flat&logo=git" alt="Git">
   <img height="20" src="https://img.shields.io/badge/-pnpm-red?style=flat&logo=pnpm" alt="pnpm">
+</div>
+
+## Databases
+
+<div>
   <img height="20" src="https://img.shields.io/badge/-PostgreSQL-blue?style=flat&logo=postgresql" alt="PostgreSQL">
   <img height="20" src="https://img.shields.io/badge/-SQLite-lightblue?style=flat&logo=sqlite" alt="SQLite">
   <img height="20" src="https://img.shields.io/badge/-MongoDB-green?style=flat&logo=mongodb" alt="MongoDB">
