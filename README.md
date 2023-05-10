@@ -10,6 +10,7 @@ My name is Marcelo and welcome to my GitHub profile!
 - ☕ It's time to make stuff!
 
 ## Skills
+
 <div>
   <img height="20" src="https://img.shields.io/badge/-TypeScript-darkblue?style=flat&logo=typescript" alt="TypeScript">
   <img height="20" src="https://img.shields.io/badge/-HTML-darkorange?style=flat&logo=html5" alt="HTML">
@@ -21,7 +22,9 @@ My name is Marcelo and welcome to my GitHub profile!
   <img height="20" src="https://img.shields.io/badge/-SQLite-lightblue?style=flat&logo=sqlite" alt="SQLite">
   <img height="20" src="https://img.shields.io/badge/-MongoDB-green?style=flat&logo=mongodb" alt="MongoDB">
 </div>
+
 ## Frameworks
+
 <div>
   <img height="20" src="https://img.shields.io/badge/-Node.js-darkgreen?style=flat&logo=node.js" alt="Node.js">
   <img height="20" src="https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js" alt="Next.js">
