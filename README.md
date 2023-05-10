@@ -13,12 +13,12 @@ My name is Marcelo and welcome to my GitHub profile!
 ## Skills
 
 <div>
-  <img height="20" src="https://img.shields.io/badge/TypeScript-grey?style=badge&logo=typescript" alt="TypeScript">
-  <img height="20" src="https://img.shields.io/badge/HTML-orange?style=badge&logo=html5" alt="HTML">
-  <img height="20" src="https://img.shields.io/badge/CSS-blue?style=badge&logo=css3" alt="CSS">
-  <img height="20" src="https://img.shields.io/badge/bash-black?style=badge&logo=gnu-bash" alt="bash">
-  <img height="20" src="https://img.shields.io/badge/Git-red?style=badge&logo=git" alt="Git">
-  <img height="20" src="https://img.shields.io/badge/pnpm-red?style=badge&logo=pnpm" alt="pnpm">
+   <img height="20" src="https://img.shields.io/badge/-TypeScript-grey?badge&logo=typescript&logoColor=white&background=3178C6" alt="TypeScript">
+  <img height="20" src="https://img.shields.io/badge/-HTML-grey?badge&logo=html5&background=darkorange" alt="HTML">
+  <img height="20" src="https://img.shields.io/badge/-CSS-grey?badge&logo=css3&background=darkblue" alt="CSS">
+  <img height="20" src="https://img.shields.io/badge/-bash-grey?badge&logo=gnu-bash&background=black" alt="bash">
+  <img height="20" src="https://img.shields.io/badge/-Git-grey?badge&logo=git&background=darkred" alt="Git">
+  <img height="20" src="https://img.shields.io/badge/-pnpm-grey?badge&logo=pnpm&background=red" alt="pnpm">
 </div>
 
 ## Databases
