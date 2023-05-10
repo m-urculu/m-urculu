@@ -13,7 +13,7 @@ My name is Marcelo and welcome to my GitHub profile!
 ## Skills
 
 <div>
-  <img height="20" src="https://img.shields.io/badge/-TypeScript-darkblue?style=flat&logo=typescript" alt="TypeScript">
+<img height="20" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript">
   <img height="20" src="https://img.shields.io/badge/-HTML-darkorange?style=flat&logo=html5" alt="HTML">
   <img height="20" src="https://img.shields.io/badge/-CSS-darkblue?style=flat&logo=css3" alt="CSS">
   <img height="20" src="https://img.shields.io/badge/-bash-black?style=flat&logo=gnu-bash" alt="bash">
