@@ -15,7 +15,7 @@ My name is Marcelo and welcome to my GitHub profile!
 <div>
    <img height="20" src="https://img.shields.io/badge/-TypeScript-grey?badge&logo=typescript&logoColor=blue&background=3178C6" alt="TypeScript">
   <img height="20" src="https://img.shields.io/badge/-HTML-grey?badge&logo=html5&background=darkorange" alt="HTML">
-  <img height="20" src="https://img.shields.io/badge/-CSS-grey?badge&logo=css3&background=darkblue" alt="CSS">
+  <img height="20" src="https://img.shields.io/badge/-CSS-grey?badge&logo=css3&background=blue" alt="CSS">
   <img height="20" src="https://img.shields.io/badge/-bash-grey?badge&logo=gnu-bash&background=black" alt="bash">
   <img height="20" src="https://img.shields.io/badge/-Git-grey?badge&logo=git&background=darkred" alt="Git">
   <img height="20" src="https://img.shields.io/badge/-pnpm-grey?badge&logo=pnpm&background=red" alt="pnpm">
