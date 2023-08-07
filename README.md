@@ -2,6 +2,8 @@
 
 My name is Marcelo and welcome to my GitHub profile! 
 
+Recently built site: https://promptopia-next-js-course-k80xsetpi-m-urculu.vercel.app
+
 ## About Me
 
 - 👨‍💻 I've been learning Web Dev for the past year.
@@ -16,3 +18,4 @@ My name is Marcelo and welcome to my GitHub profile!
 - 💼 [LinkedIn](https://www.linkedin.com/in/marcelo-oliveira-1445b5222/)
 
 Feel free to browse my repositories and don't hesitate to get in touch if you have any questions or would like to collaborate on a project!
+
