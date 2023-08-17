@@ -2,7 +2,7 @@
 
 My name is Marcelo and welcome to my GitHub profile! 
 
-Recently built site: https://promptopia-next-js-course-k80xsetpi-m-urculu.vercel.app
+Recently built site: [Promptopia](https://promptopia-next-js-course-k80xsetpi-m-urculu.vercel.app)
 
 ## About Me
 
