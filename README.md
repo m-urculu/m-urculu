@@ -2,8 +2,6 @@
 
 My name is Marcelo and welcome to my GitHub profile! 
 
-Recently built site: [Promptopia](https://promptopia-next-js-course.vercel.app)
-
 ## About Me
 
 - 👨‍💻 I've been learning Web Dev for the past year.
