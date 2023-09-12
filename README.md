@@ -14,7 +14,6 @@ My name is Marcelo and welcome to my GitHub profile!
 - [Promptopia](https://promptopia-ai-next-js.vercel.app) - Share & Discover AI Prompts!
 
 ## Contact
-- 🐦 [X](https://twitter.com/murculu1)
 - 📧 mrcel83@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/marcelo-oliveira-1445b5222/)
 
