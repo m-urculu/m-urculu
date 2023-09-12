@@ -4,10 +4,7 @@ My name is Marcelo and welcome to my GitHub profile!
 
 ## About Me
 
-- 💻 Working on a full-stack Bugtracker Site.
-- 🌱 TypeScript, Next.js, postgreSQL, React and other related technologies.
-- 🤝 Open to collaborating on any projects related to my skills and interests.
-- ☕ It's time to make stuff!
+- 💻 Building full-stack projects and learning.
 
 ## Projects
 
