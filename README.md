@@ -1,10 +1,10 @@
 # Hi there! 👋
 
-My name is Marcelo and welcome to my GitHub profile! 
+My name is Marcelo, I'm a Web Developer! 
 
 ## About Me
 
-- 💻 Building full-stack projects and learning.
+- 💻 I'm Building full-stack projects and learning!
 
 ## Projects
 
