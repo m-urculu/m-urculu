@@ -1,7 +1,7 @@
 # Hi there! 👋
 
-- My name is Marcelo, I'm a Web Developer! 
-- 💻 I'm Building full-stack projects and learning!
+- 💻 I'm Building full-stack projects!
+- 🌱 Learning ReactJS, Next.JS and TypeScript!
 
 ## Projects
 
