@@ -1,9 +1,6 @@
 # Hi there! 👋
 
-My name is Marcelo, I'm a Web Developer! 
-
-## About Me
-
+- My name is Marcelo, I'm a Web Developer! 
 - 💻 I'm Building full-stack projects and learning!
 
 ## Projects
