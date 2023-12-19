@@ -4,7 +4,7 @@
 
 ## Projects
 
-- [Promptopia](https://promptopia-ai-next-js.vercel.app) - Full-Stack prompt sharing site, using Next.js with React and TypeScript, mongoDB and Google Auth.
+- [Promptopia](https://promptopia-ai-next-js.vercel.app) - Full-Stack prompt sharing site, using Next.js with React and TypeScript, mongoDB and Google Auth. Deployed @ Vercel.
 
 ## Contact
 - 📧 mrcel83@gmail.com
