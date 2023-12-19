@@ -1,11 +1,10 @@
 # Hi there! 👋
 
 - 💻 I'm Building full-stack projects!
-- 🌱 Learning ReactJS, Next.JS and TypeScript!
 
 ## Projects
 
-- [Promptopia](https://promptopia-ai-next-js.vercel.app) - Share & Discover AI Prompts!
+- [Promptopia](https://promptopia-ai-next-js.vercel.app) - Full-Stack prompt sharing site, using Next.js with React and TypeScript, mongoDB and Google Auth.
 
 ## Contact
 - 📧 mrcel83@gmail.com
