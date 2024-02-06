@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-- 💻 I'm Building full-stack projects!
+- 💻 I'm Building my portfolio page!
 
 ## Projects
 
