@@ -1,8 +1,6 @@
 # Hi there! 👋
 
-- 💻 I'm learning Front-End in React with TypeScript and Next.js!
+- 💻 I'm a Front-End Developer!
 
-## Contact
-- 📧 mrcel83@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/marcelo-oliveira-1445b5222/)
+
 
