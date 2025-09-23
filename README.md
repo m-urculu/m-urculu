@@ -29,9 +29,9 @@ Here's a look at some of the projects I've recently shipped.
 
 | Project Name | Technology Stack | Live Demo | GitHub Repo |
 | :--- | :--- | :--- | :--- |
-| **Saurozen 👓 E-commerce Sunglasses** | _Next.js, Figma, React_ | [saurozen.com](https://saurozen.vercel.app/) | [Repo](https://github.com/m-urculu/saurozen-ecom?tab=readme-ov-file) |
-| **Telegram Message Your Document AI 🤖** | _Next.js, Supabase, Telegram API, Gemini_ | [telegram-doc-bot.com (Backend Currently Down)](https://docbot-ai-five.vercel.app/) | [Repo](https://github.com/m-urculu/telegram-doc-bot) |
-| **Build Fast Landing Page Challenge ⚡** | _Next.js, React, TailwindCSS_ | [fastlandingpage.com](https://fastlandingpage-site.vercel.app/) | [Repo](https://github.com/m-urculu/fastlandingpage-site) |
+| **Saurozen 👓 E-commerce Sunglasses** | _Next.js, Figma, React_ | [Website](https://saurozen.vercel.app/) | [Repo](https://github.com/m-urculu/saurozen-ecom?tab=readme-ov-file) |
+| **Telegram Message Your Document AI 🤖** | _Next.js, Supabase, Telegram API, Gemini_ | [Website (Backend Currently Down)](https://docbot-ai-five.vercel.app/) | [Repo](https://github.com/m-urculu/telegram-doc-bot) |
+| **Build Fast Landing Page Challenge ⚡** | _Next.js, React, TailwindCSS_ | [Website](https://fastlandingpage-site.vercel.app/) | [Repo](https://github.com/m-urculu/fastlandingpage-site) |
 
 ---
 
