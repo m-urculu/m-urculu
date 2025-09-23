@@ -1,38 +1,49 @@
-I'm a full-stack web developer.
+# 😎 README
 
-<img src="https://skillicons.dev/icons?i=nextjs" />
+<div>
+  <img src="https://skillicons.dev/icons?i=js" />
+  <img src="https://skillicons.dev/icons?i=ts" />
+  <img src="https://skillicons.dev/icons?i=nextjs"/>
+  <img src="https://skillicons.dev/icons?i=supabase"/>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=react"/>
+  <img src="https://skillicons.dev/icons?i=tailwindcss"/>
+</div>
+<br>
 
-My work is at the intersection of design and functionality, with a passion for building exceptional digital experiences.
+I'm a full-stack developer obsessed with creating beautiful, functional digital experiences. I believe good design isn't just about looks—it's about making things intuitive and delightful to use.
 
 ---
 
-### 🚀 What I Do
+### 🚀 What I'm Building
 
-I specialize in crafting **Next.js driven full-stack AI applications**.
+I specialize in crafting intelligent, full-stack applications with Next.js and AI.
 
-My current focus is on: **EdTech for Job Seekers & Professionals**. I help them build and elevate their skill-set so they win at interviews with work that truly stands out.
+My current mission is focused on **EdTech for Job Seekers & Professionals**. I'm building tools that empower people to learn new skills and stand out in a competitive job market. My goal is to help them win at interviews with a portfolio that truly shines.
 
 ---
 
-### ✨ Featured Projects
+### ✨ My Work
 
-Here are some of the projects I've built, demonstrating the kind of work I deliver.
+Here's a look at some of the projects I've recently shipped.
 
 | Project Name | Technology Stack | Live Demo | GitHub Repo |
 | :--- | :--- | :--- | :--- |
-| **[Saurozen]** | _[Next.js, Figma, React]_ | [[Live Demo Link](https://saurozen.vercel.app/)] | [[Repo Link](https://github.com/m-urculu/saurozen-ecom?tab=readme-ov-file)] |
-| **[Telegram Talk To Document AI]** | _[Next.js, Supabase, Telegram API, Gemini]_ | [[Live Demo Link (Backend Currently Down)](https://docbot-ai-five.vercel.app/)] | [[Repo Link](https://github.com/m-urculu/telegram-doc-bot)] |
-| **[Fast Landing Page]** | _[Next.js, React, TailwindCSS]_ | [[Live Demo Link](https://fastlandingpage-site.vercel.app/)] | [[Repo Link](https://github.com/m-urculu/fastlandingpage-site)] |
+| **Saurozen 👓 E-commerce Sunglasses** | _Next.js, Figma, React_ | [Live Demo Link](https://saurozen.vercel.app/) | [Repo Link](https://github.com/m-urculu/saurozen-ecom?tab=readme-ov-file) |
+| **Telegram Message Your Document AI 🤖** | _Next.js, Supabase, Telegram API, Gemini_ | [Live Demo Link (Backend Currently Down)](https://docbot-ai-five.vercel.app/) | [Repo Link](https://github.com/m-urculu/telegram-doc-bot) |
+| **Build Fast Landing Page Challenge ⚡** | _Next.js, React, TailwindCSS_ | [Live Demo Link](https://fastlandingpage-site.vercel.app/) | [Repo Link](https://github.com/m-urculu/fastlandingpage-site) |
 
 ---
 
-### 💡 My Business Journey
+### 💡 My Journey
 
-My goal is to transition from a service-based business to a product-based one. I'm currently using my freelance work as a strategic **R&D phase** to validate and fund my first micro-SaaS product.
+Right now, I'm building a freelance business to fund and inform my next big idea. I'm using every client project as a chance to identify a real-world problem—the kind of problem that's ripe for a software solution.
 
-As I work with clients in the web development space, I'm identifying recurring, unsolved problems. The goal is to build a simple, elegant software solution that scales, giving me the freedom to create more impactful products.
+The ultimate goal is to build a product that solves a real need, so I can scale beyond trading time for money and focus on creating things that have a truly lasting impact.
 
 ### 🌐 Let's Connect
+
+I'm always open to new ideas and connections. Feel free to reach out!
 
 - **Website:** [Portfolio Site](https://marcelo-portfolio-five.vercel.app/)
 - **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/marcelo-oliveira-1445b5222/)
@@ -41,4 +52,5 @@ As I work with clients in the web development space, I'm identifying recurring, 
 
 ---
 
-> *"The best way to predict the future is to create it."*
+> *"The best way to create the future is to predict it."*
+> — A developer in a room somewhere, probably.
