@@ -1,14 +1,8 @@
 # 😎 README
+<br>
 
-<div>
-  <img src="https://skillicons.dev/icons?i=js" />
-  <img src="https://skillicons.dev/icons?i=ts" />
-  <img src="https://skillicons.dev/icons?i=nextjs"/>
-  <img src="https://skillicons.dev/icons?i=supabase"/>
-  <img src="https://skillicons.dev/icons?i=mysql" />
-  <img src="https://skillicons.dev/icons?i=react"/>
-  <img src="https://skillicons.dev/icons?i=tailwindcss"/>
-</div>
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://www.javascript.com) [![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org) [![Next.js](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org) [![Supabase](https://skillicons.dev/icons?i=supabase)](https://supabase.com) [![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com) [![React](https://skillicons.dev/icons?i=react)](https://react.dev) [![Tailwind CSS](https://skillicons.dev/icons?i=tailwindcss)](https://tailwindcss.com)
+
 <br>
 
 I'm a full-stack developer obsessed with creating beautiful, functional digital experiences. I believe good design isn't just about looks—it's about making things intuitive and delightful to use.
