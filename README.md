@@ -1,6 +1,6 @@
-# Hello there!
-
 I'm a full-stack web developer.
+
+<img src="https://skillicons.dev/icons?i=nextjs" />
 
 My work is at the intersection of design and functionality, with a passion for building exceptional digital experiences.
 
