@@ -25,7 +25,7 @@ My current mission is focused on **EdTech for Job Seekers & Professionals**. I'm
 
 ### ✨ My Work
 
-Here's a look at some of the projects I've recently shipped.
+Here's a look at some of the projects I'm working on.
 
 | Project Name | Technology Stack | Live Demo | GitHub Repo |
 | :--- | :--- | :--- | :--- |
