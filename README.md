@@ -13,6 +13,9 @@ I specialize in crafting intelligent, full-stack applications with Next.js and A
 
 My current mission is focused on **EdTech for Job Seekers & Professionals**. I'm building tools that empower people to learn new skills and stand out in a competitive job market. My goal is to help them win at interviews with a portfolio that truly shines.
 
+<img width="1873" height="960" alt="image" src="https://github.com/user-attachments/assets/046a4780-0e3d-4cd5-ad2f-3547f9c64755" />
+
+
 ---
 
 ### ✨ My Work
