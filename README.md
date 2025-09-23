@@ -1,8 +1,28 @@
 # 😎 README
+
 <br>
-
-[![JavaScript](https://skillicons.dev/icons?i=js)](https://www.javascript.com) [![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org) [![Next.js](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org) [![Supabase](https://skillicons.dev/icons?i=supabase)](https://supabase.com) [![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com) [![React](https://skillicons.dev/icons?i=react)](https://react.dev) [![Tailwind CSS](https://skillicons.dev/icons?i=tailwindcss)](https://tailwindcss.com)
-
+<a href="https://www.javascript.com" target="_blank" rel="noopener noreferrer">
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
+</a>
+<a href="https://www.typescriptlang.org" target="_blank" rel="noopener noreferrer">
+  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" />
+</a>
+<a href="https://nextjs.org" target="_blank" rel="noopener noreferrer">
+  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" />
+</a>
+<a href="https://supabase.com" target="_blank" rel="noopener noreferrer">
+  <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" />
+</a>
+<a href="https://www.mysql.com" target="_blank" rel="noopener noreferrer">
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
+</a>
+<a href="https://react.dev" target="_blank" rel="noopener noreferrer">
+  <img src="https://skillicons.dev/icons?i=react" alt="React" />
+</a>
+<a href="https://tailwindcss.com" target="_blank" rel="noopener noreferrer">
+  <img src="https://skillicons.dev/icons?i=tailwindcss" alt="Tailwind CSS" />
+</a>
+<br>
 <br>
 
 I'm a full-stack developer obsessed with creating beautiful, functional digital experiences. I believe good design isn't just about looks—it's about making things intuitive and delightful to use.
