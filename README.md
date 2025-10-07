@@ -44,5 +44,5 @@ I'm always open to new ideas and connections. Feel free to reach out!
 
 ---
 
-> *"The best way to create the future is to predict it."*
+> *"Don't give up."*
 > — A developer in a room somewhere, probably.
