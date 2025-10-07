@@ -21,8 +21,10 @@ Here's a look at some of the projects I'm working on.
 
 | Project Name | Technology Stack | Live Demo | GitHub Repo | Reason |
 | :--- | :--- | :--- | :--- | :--- |
+
+| **CodePath.AI 👨‍💻** | _Next.js, Supabase, Gemini_ | [project-ai-courses.vercel.app](https://project-ai-courses.vercel.app/) | I'm building a learning platform for people wanting to learn programming skills. | [Repo Unavailable]
+| **Telegram Message Your Document AI 🤖** | _Next.js, Supabase, Telegram API, Gemini_ | [docbot-ai-five.vercel.app (Backend Currently Down)](https://docbot-ai-five.vercel.app/) | I wanted to integrate different APIs and work with AI with a database. | [Repo](https://github.com/m-urculu/telegram-doc-bot)
 | **Saurozen 👓 E-commerce Sunglasses** | _Next.js, Figma, React_ | [saurozen.vercel.app](https://saurozen.vercel.app/) | I built the frontend to practice my react skills by custom building the components. | [Repo](https://github.com/m-urculu/saurozen-ecom?tab=readme-ov-file) 
-| **Telegram Message Your Document AI 🤖** | _Next.js, Supabase, Telegram API, Gemini_ | [docbot-ai-five.vercel.app (Backend Currently Down)](https://docbot-ai-five.vercel.app/) | I wanted to integrate different APIs and work with AI with a database. | [Repo](https://github.com/m-urculu/telegram-doc-bot) 
 | **Build Fast Landing Page Challenge ⚡** | _Next.js, React, TailwindCSS_ | [fastlandingpage-site.vercel.app](https://fastlandingpage-site.vercel.app/) | Tested how fast could I build a landing page that looked decent. | [Repo](https://github.com/m-urculu/fastlandingpage-site) 
 
 ---
