@@ -38,7 +38,6 @@ The ultimate goal is to build a product that solves a real need, so I can scale 
 
 I'm always open to new ideas and connections. Feel free to reach out!
 
-- **Website:** [Portfolio Site](https://marcelo-portfolio-five.vercel.app/)
 - **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/marcelo-oliveira-1445b5222/)
 - **Email:** [Email](mailto:mrcel@gmail.com)
 - **Twitter/X:** [@murculium](https://x.com/murculium)
