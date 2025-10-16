@@ -1,6 +1,8 @@
 # 😎 README
 
-[![JavaScript](https://skillicons.dev/icons?i=js)](https://www.javascript.com) [![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org) [![Next.js](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org) [![Supabase](https://skillicons.dev/icons?i=supabase)](https://supabase.com) [![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com) [![React](https://skillicons.dev/icons?i=react)](https://react.dev) [![Tailwind CSS](https://skillicons.dev/icons?i=tailwindcss)](https://tailwindcss.com)
+| Languages | Frameworks | DataBases | Deployment | Frontend |
+| :--- | :--- | :--- | :--- | :--- |
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://www.javascript.com) [![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org) | [![Node.js](https://skillicons.dev/icons?i=nodejs)](https://node.org) [![Next.js](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org) | [![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com) [![Supabase](https://skillicons.dev/icons?i=supabase)](https://supabase.com) | [![Docker](https://skillicons.dev/icons?i=docker)](https://docker.com) [![Vercel](https://skillicons.dev/icons?i=vercel)](https://docker.com) | [![React](https://skillicons.dev/icons?i=react)](https://react.dev) [![Tailwind CSS](https://skillicons.dev/icons?i=tailwindcss)](https://tailwindcss.com)
 <br>
 
 I'm a full-stack developer obsessed with creating beautiful, functional digital experiences. I believe good design isn't just about looks—it's about making things intuitive and delightful to use.
