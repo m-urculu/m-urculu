@@ -26,7 +26,6 @@ Here's a look at some of the projects I'm working on.
 | **CodePath.AI 👨‍💻** | _Next.js, Supabase, Gemini_ | [CodePath.AI](https://project-ai-courses.vercel.app/) | I'm building a learning platform for people wanting to learn programming skills. | _Unavailable_
 | **Telegram Message Your Document AI 🤖** | _Next.js, Supabase, Telegram API, Gemini_ | [Message Document Bot](https://docbot-ai-five.vercel.app/) | I wanted to integrate different APIs and work with AI with a database. | [Repo](https://github.com/m-urculu/telegram-doc-bot)
 | **Saurozen 👓 E-commerce Sunglasses** | _Next.js, Figma, React_ | [Saurozen](https://saurozen.vercel.app/) | I built the frontend to practice my react skills by custom building the components. | [Repo](https://github.com/m-urculu/saurozen-ecom?tab=readme-ov-file) 
-| **Built a Landing Page Fast ⚡** | _Next.js, React, TailwindCSS_ | [Fast Landing Page](https://fastlandingpage-site.vercel.app/) | Tested how fast could I build a landing page that looked decent. (8h) | [Repo](https://github.com/m-urculu/fastlandingpage-site) 
 
 ---
 
