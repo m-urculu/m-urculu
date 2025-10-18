@@ -5,7 +5,7 @@
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://www.javascript.com) [![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org) | [![React](https://skillicons.dev/icons?i=react)](https://react.dev) [![Tailwind CSS](https://skillicons.dev/icons?i=tailwindcss)](https://tailwindcss.com) | [![Node.js](https://skillicons.dev/icons?i=nodejs)](https://node.org) [![Next.js](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org) | [![Docker](https://skillicons.dev/icons?i=docker)](https://docker.com) [![Vercel](https://skillicons.dev/icons?i=vercel)](https://docker.com) | [![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com) [![Supabase](https://skillicons.dev/icons?i=supabase)](https://supabase.com) 
 <br>
 
-I'm a full-stack developer obsessed with creating beautiful, functional digital experiences. I believe good design isn't just about looks—it's about making things intuitive and delightful to use.
+I'm a front-end developer obsessed with creating beautiful, functional digital experiences. I believe good design isn't just about looks—it's about making things intuitive and delightful to use.
 
 ---
 
