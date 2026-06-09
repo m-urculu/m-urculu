@@ -23,7 +23,7 @@ Here's a look at some of the projects I'm working on.
 
 | Project Name | Technology Stack | Live Demo | Reason | GitHub Repo |
 | :--- | :--- | :--- | :--- | :--- |
-| **Elina 👩‍⚖️** | _Next.js, Supabase, Gemini_ | [Elina]([https://project-ai-courses.vercel.app/](https://elina-git-main-murculus-projects.vercel.app/)) | I build a law and jurisprudence search and assistance for portuguese lawyers. | _Unavailable_
+| **Elina 👩‍⚖️** | _Next.js, Supabase, Gemini_ | [Elina](https://elina-git-main-murculus-projects.vercel.app/) | I build a law and jurisprudence search and assistance for portuguese lawyers. | _Unavailable_
 | **CodePath.AI 👨‍💻** | _Next.js, Supabase, Gemini_ | [CodePath.AI](https://project-ai-courses.vercel.app/) | I'm building a learning platform for people wanting to learn programming skills. | _Unavailable_
 | **Telegram Message Your Document AI 🤖** | _Next.js, Supabase, Telegram API, Gemini_ | [Message Document Bot](https://docbot-ai-five.vercel.app/) | I wanted to integrate different APIs and work with AI with a database. | [Repo](https://github.com/m-urculu/telegram-doc-bot)
 | **Saurozen 👓 E-commerce Sunglasses** | _Next.js, Figma, React_ | [Saurozen](https://saurozen.vercel.app/) | I built the frontend to practice my react skills by custom building the components. | [Repo](https://github.com/m-urculu/saurozen-ecom?tab=readme-ov-file) 
