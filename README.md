@@ -11,7 +11,7 @@ I'm a fullstack developer obsessed with digital experiences. I believe good desi
 
 ### 🚀 What I'm Building
 
-I specialize in crafting intelligent, full-stack applications with Next.js and AI.
+I specialize in crafting intelligent, full-stack applications with AI.
 
 I just finished working on a RAG search AI chatbot for Portuguese law. I'm building tools that empower people to learn new skills and stand out in a competitive job market. My goal now is to find interesting projects and build them for clients.
 
