@@ -13,7 +13,7 @@ I'm a fullstack developer obsessed with digital experiences. I believe good desi
 
 I specialize in crafting intelligent, full-stack applications with Next.js and AI.
 
-My current mission is focused on **Law Search with AI**. I'm building tools that empower people to learn new skills and stand out in a competitive job market. My goal is to help them find quickly laws and court decision documents to expand their reach.
+I just finished working on a RAG search AI chatbot for Portuguese law. I'm building tools that empower people to learn new skills and stand out in a competitive job market. My goal now is to find interesting projects and build them for clients.
 
 ---
 
