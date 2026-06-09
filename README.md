@@ -23,8 +23,8 @@ Here's a look at some of the projects I'm working on.
 
 | Project Name | Technology Stack | Live Demo | Summary | GitHub Repo | Date |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Elina 👩‍⚖️** | _Next.js, Supabase, Gemini_ | [Elina](https://elina.pt/) | I build a fullstack application for law and jurisprudence search and assistance for a client. | _Unavailable_ | Jan – May 2025 |
-| **CodePath.AI 👨‍💻** | _Next.js, Supabase, Gemini_ | [CodePath.AI](https://project-ai-courses.vercel.app/) | A learning platform for people wanting to learn programming skills. | _Unavailable_ | Sep – Oct 2025 |
+| **Elina 👩‍⚖️** | _Next.js, Supabase, Gemini_ | [Elina](https://elina.pt/) | I build a fullstack application for law and jurisprudence search and assistance for a client. | _Unavailable_ | Jan – May 2026 |
+| **CodePath.AI 👨‍💻** | _Next.js, Supabase, Gemini_ | [CodePath.AI](https://project-ai-courses.vercel.app/) | A learning platform for people wanting to learn programming skills. | [Repo](https://github.com/m-urculu/project-ai-courses) | Sep – Oct 2025 |
 | **Telegram Message Your Document AI 🤖** | _Next.js, Supabase, Telegram API, Gemini_ | [Message Document Bot](https://docbot-ai-five.vercel.app/) | A simple Telegram Bot that searches uploaded documents. | [Repo](https://github.com/m-urculu/telegram-doc-bot) | May – Oct 2025 |
 | **Saurozen 👓 E-commerce Sunglasses** | _Next.js, Figma, React_ | [Saurozen](https://saurozen.vercel.app/) | A frontend project of a store. Built to practice my React, Tailwind and HTML skills | [Repo](https://github.com/m-urculu/saurozen-ecom?tab=readme-ov-file) | Sep 2024 – Apr 2025 |
 
