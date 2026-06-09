@@ -23,7 +23,7 @@ Here's a look at some of the projects I'm working on.
 
 | Project Name | Technology Stack | Live Demo | Summary | GitHub Repo |
 | :--- | :--- | :--- | :--- | :--- |
-| **Elina 👩‍⚖️** | _Next.js, Supabase, Gemini_ | [Elina](https://elina.pt/) | I build a full application for law and jurisprudence search and assistance for portuguese lawyers. | _Unavailable_
+| **Elina 👩‍⚖️** | _Next.js, Supabase, Gemini_ | [Elina](https://elina.pt/) | I build a full application for law and jurisprudence search and assistance for a client. | _Unavailable_
 | **CodePath.AI 👨‍💻** | _Next.js, Supabase, Gemini_ | [CodePath.AI](https://project-ai-courses.vercel.app/) | A learning platform for people wanting to learn programming skills. | _Unavailable_
 | **Telegram Message Your Document AI 🤖** | _Next.js, Supabase, Telegram API, Gemini_ | [Message Document Bot](https://docbot-ai-five.vercel.app/) | A simple Telegram Bot that searches uploaded documents. | [Repo](https://github.com/m-urculu/telegram-doc-bot)
 | **Saurozen 👓 E-commerce Sunglasses** | _Next.js, Figma, React_ | [Saurozen](https://saurozen.vercel.app/) | A frontend project of a store. Built to practice my React, Tailwind and HTML skills | [Repo](https://github.com/m-urculu/saurozen-ecom?tab=readme-ov-file) 
