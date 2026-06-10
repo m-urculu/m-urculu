@@ -32,7 +32,7 @@ Here's a look at some of the projects I've been working on.
 
 | Project Name | Technology Stack | Live Demo | Summary | GitHub Repo | Date |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Elina 👩‍⚖️** | _Next.js, Supabase, Gemini, FastAPI_ | [Elina](https://elina.pt/) | A fullstack AI-assisted legal research and search system for Portuguese law and jurisprudence, built for a client. | _Private_ | Jan – May 2026 |
+| **Elina 👩‍⚖️** | _Next.js, Supabase, Gemini, FastAPI_ | [Elina](https://elina.pt/) | A fullstack AI-assisted legal research and search system for Portuguese law and jurisprudence, built for a client. | [_Private_](https://github.com/m-urculu/elina) | Jan – May 2026 |
 | **CodePath.AI 👨‍💻** | _Next.js, Supabase, Gemini_ | [CodePath.AI](https://project-ai-courses.vercel.app/) | A learning platform for people wanting to learn programming skills. | [Repo](https://github.com/m-urculu/project-ai-courses) | Sep – Oct 2025 |
 | **Telegram Message Your Document AI 🤖** | _Next.js, Supabase, Telegram API, Gemini_ | [Message Document Bot](https://docbot-ai-five.vercel.app/) | A Telegram bot that searches uploaded documents and returns AI-assisted answers. | [Repo](https://github.com/m-urculu/telegram-doc-bot) | May – Oct 2025 |
 | **Saurozen 👓 E-commerce Sunglasses** | _Next.js, Figma, React_ | [Saurozen](https://saurozen.vercel.app/) | A frontend store project, built to practice my React, Tailwind and HTML skills. | [Repo](https://github.com/m-urculu/saurozen-ecom?tab=readme-ov-file) | Sep 2024 – Apr 2025 |
