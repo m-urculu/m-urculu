@@ -6,37 +6,23 @@
 
 <br>
 
-**Full-Stack AI Developer — RAG search, document chatbots & AI product features.**
+**Full-Stack Developer — AI applications, RAG search & document intelligence.**
 
-I build practical full-stack AI tools for startups, agencies and document-heavy teams. I'm obsessed with digital experiences, and I believe good software isn't just about looks—it's about making things intuitive and delightful to use.
-
-I'm currently available for **freelance, temporary, non-exclusive and white-label** projects — remote-friendly.
+I build practical full-stack applications with AI at their core. I'm obsessed with digital experiences, and I believe good software isn't just about looks—it's about making things intuitive and delightful to use.
 
 ---
 
-### 🚀 What I'm Building
+### 🚀 What I Work On
 
-I specialize in crafting intelligent, fullstack applications with AI. My work focuses on:
+My recent work focuses on intelligent, full-stack applications:
 
 - RAG search over documents and knowledge bases
 - Document chatbots and internal AI assistants
 - AI features for SaaS and digital products
-- API and database integrations
-- MVP and feature implementation sprints
+- API, database and backend integrations
+- End-to-end product development, from architecture to deployment
 
-I just finished **Elina**, a RAG search AI system for Portuguese law and jurisprudence, and I'm building tools that empower people to learn new skills and stand out in a competitive job market. My goal now is to find interesting projects and build them for clients.
-
----
-
-### 🛠️ What I Can Help With
-
-| Your situation | What I can build |
-| :--- | :--- |
-| Too many documents and no efficient search | RAG search prototype or internal knowledge assistant |
-| Your product needs an AI feature | AI feature implementation sprint |
-| Your agency needs delivery capacity | White-label full-stack / AI development support |
-| Your MVP is blocked or incomplete | Full-stack sprint to ship or stabilise core features |
-| Your tools don't talk to each other | API, database and backend integration sprint |
+Most recently, I shipped **Elina**, a RAG search AI system for Portuguese law and jurisprudence.
 
 ---
 
@@ -65,17 +51,9 @@ The source code is private, but I can share a confidentiality-safe walkthrough, 
 
 ---
 
-### 💡 My Journey
-
-Right now, I'm building a freelance business to fund and inform my next big idea. I'm using every client project as a chance to identify a real-world problem—the kind that's ripe for a software solution.
-
-The ultimate goal is to build a product that solves a real need, so I can scale beyond trading time for money and focus on creating things that have a truly lasting impact.
-
----
-
 ### 🌐 Let's Connect
 
-I'm always open to new ideas and connections. If you need help building or shipping a full-stack AI feature, document search tool or internal assistant, feel free to reach out!
+I'm always open to new ideas and connections — feel free to reach out!
 
 - **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/marcelo-oliveira-1445b5222/)
 - **Email:** [Email](mailto:mrcel@gmail.com)
