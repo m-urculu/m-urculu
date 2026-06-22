@@ -42,7 +42,7 @@ Here's a look at some of the projects I've been working on.
 
 **Problem:** Portuguese legal research involves large volumes of legal documents and jurisprudence, making search and navigation slow and time-consuming.
 
-**Solution:** I built the architecture and implementation for a full-stack AI-assisted search system, combining frontend, backend/API logic, database infrastructure and RAG/LLM workflows. The system was designed to support search across a project-reported corpus of roughly **300,000 court decisions and 12,000 legal documents**, with testing across legal categories, accuracy/precision and multiple legal domains.
+**Solution:** I built the architecture and implementation for a full-stack AI-assisted search system, combining frontend, backend/API logic, database infrastructure and RAG/LLM workflows. The system was designed to support search across a project-reported corpus of roughly **300,000 court decisions and 1,200 legal documents**, with testing across legal categories, accuracy/precision and multiple legal domains.
 
 > *Elina is a legal research and document-assistance tool. It does not replace professional legal judgement or provide guaranteed legal advice.*
 
